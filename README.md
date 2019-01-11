@@ -119,3 +119,15 @@ wget https://github.com/veip007/Network-Reinstall-System-Modify/raw/master/Netwo
 因硬件配置和网络环境不同，安装全程需要15-60分钟，请耐心等待。安装完成即可通过IP:22(Linux SSH)/IP:3389(Windows RDP)进行连接。
 
 本文出处https://tech.cxthhhhh.com/linux/2018/11/29/original-one-click-network-reinstall-system-magic-modify-version-for-linux-windows-cn.html
+
+
+## 另外：
+1. 所有系统安装完毕的默认密码是[```cxthhhhh.com```]，为了防止暴力破解，你必须在安装完毕立刻修改默认密码！
+
+2. 因硬件配置和网络环境不同，安装全程需要15-60分钟，请耐心等待。安装完成即可通过IP:22(Linux SSH)/IP:3389(Windows RDP)进行连接。
+
+3. 为了稳定性和安全性，我建议所有网站管理员/开发者/公司使用最新的系统，同时我只为最新的系统提供技术支持。
+
+4. 所有镜像托管于Open Disk CDN，你应该访问以下文章了解镜像，使用时应校对MD5和SHA1是否正确。
+
+5. 一些没有DHCP的VPS/云平台/独立服务器，安装后无法访问网络，你需要登陆VNC/IPIM/KVM后手动进行网卡IP配置。
