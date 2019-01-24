@@ -37,7 +37,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest CentOS_7 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://drive.google.com/open?id=1mCRpOOK6CKoJxRbunp8mlKIPvA2ukMqQ'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/CentOS_7.X_NetInstallation.vhd.gz'
 fi
 
 if [ $1 = '-CentOS_6' ]
@@ -101,7 +101,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2019 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://drive.google.com/open?id=1XdwTBt1k4ykYzTXJLlCw3ST3DgT6nZbS'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_Server_2019_DataCenter_CN.vhd.gz'
 fi
 
 if [ $1 = '-Windows_Server_2016' ]
@@ -109,7 +109,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2016 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://drive.google.com/open?id=1vrMnQImTf9qPIN3kqclVu9bBeRwPr1lG'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_Server_2016_DataCenter_CN.vhd.gz'
 fi
 
 if [ $1 = '-Windows_Server_2012R2' ]
@@ -117,7 +117,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2012R2 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://drive.google.com/open?id=1d5vGH37m0wD60GhmkuOIRj_ZJXGml9vo'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_Server_2012R2_DataCenter_CN.vhd.gz'
 fi
 
 if [ $1 = '-Windows_Server_2008R2' ]
@@ -125,7 +125,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2008R2 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://drive.google.com/open?id=1E8wAdPMCFOBHGtlFAVmfJVF3OD1UpVp4'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_Server_2008R2_DataCenter_CN.vhd.gz'
 fi
 
 if [ $1 = '-Windows_7_Vienna' ]
@@ -133,7 +133,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_7_Vienna \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://drive.google.com/open?id=104tcg6ZiXFiHux7Z-9gGoWh_U2aPsrGj'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_7_Vienna_Ultimate_CN.vhd.gz'
 fi
 
 if [ $1 = '-Windows_Server_2003' ]
@@ -141,7 +141,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2003 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://drive.google.com/open?id=13G6T-rRzlFjWcCua56p3n_apvwDQINQh'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_Server_2003_DataCenter_CN.vhd.gz'
 fi
 
 if [ $1 = '-CXT_Bare-metal_System_Deployment_Platform' ]
@@ -167,3 +167,5 @@ echo -e "\033[31m Please check if the options are correct. For example [-CXT_Bar
 echo "---------------------------------------------------------------------------------------------------------------------"
 echo -e "\n"
 exit
+拖拽到此处
+图片将通过Fatkun完成下载
