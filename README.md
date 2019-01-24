@@ -17,7 +17,7 @@ apt-get install -y xz-utils openssl gawk file
 ### 让我们开始吧
 #### 1. 下载SHELL脚本（通过root用户运行）
 ``` bash
-wget https://github.com/veip007/Network-Reinstall-System-Modify/raw/master/Network-Reinstall-System-Modify.sh && chmod a+x Network-Reinstall-System-Modify.sh
+wget -N --no-check-certificate https://github.com/veip007/Network-Reinstall-System-Modify/raw/master/Network-Reinstall-System-Modify.sh && chmod a+x Network-Reinstall-System-Modify.sh
 ```
 
 #### 2. 安装系统（任选其一）
