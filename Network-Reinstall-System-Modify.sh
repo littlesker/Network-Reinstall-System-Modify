@@ -37,7 +37,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest CentOS_7 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/CentOS_7.X_NetInstallation.vhd.gz'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://doc-0g-08-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/2ll3u65bacqm7gqn9ukj9hk0f45u3958/1548338400000/17128039988164006870/*/1mCRpOOK6CKoJxRbunp8mlKIPvA2ukMqQ?e=download'
 fi
 
 if [ $1 = '-CentOS_6' ]
@@ -101,7 +101,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2019 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_Server_2019_DataCenter_CN.vhd.gz'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://doc-0g-08-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/n29qhlft4urki81tup15ta1ru60dlqfm/1548338400000/17128039988164006870/*/1XdwTBt1k4ykYzTXJLlCw3ST3DgT6nZbS?e=download'
 fi
 
 if [ $1 = '-Windows_Server_2016' ]
@@ -109,7 +109,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2016 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_Server_2016_DataCenter_CN.vhd.gz'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://doc-0o-08-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/pfgbbt7ojhu3fk95b70k5ehivp3nnf2v/1548338400000/17128039988164006870/*/1vrMnQImTf9qPIN3kqclVu9bBeRwPr1lG?e=download'
 fi
 
 if [ $1 = '-Windows_Server_2012R2' ]
@@ -117,7 +117,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2012R2 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_Server_2012R2_DataCenter_CN.vhd.gz'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://doc-10-08-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/j3oi6c1d6bfuc0ai8e2ll59lsi9ami3r/1548338400000/17128039988164006870/*/1d5vGH37m0wD60GhmkuOIRj_ZJXGml9vo?e=download'
 fi
 
 if [ $1 = '-Windows_Server_2008R2' ]
@@ -125,7 +125,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2008R2 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_Server_2008R2_DataCenter_CN.vhd.gz'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://doc-08-08-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/21dnv7019ea0vusei94s8qh1qv7h8hek/1548338400000/17128039988164006870/*/1E8wAdPMCFOBHGtlFAVmfJVF3OD1UpVp4?e=download'
 fi
 
 if [ $1 = '-Windows_7_Vienna' ]
@@ -133,7 +133,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_7_Vienna \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_7_Vienna_Ultimate_CN.vhd.gz'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://doc-0c-08-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ej5rasa02adse4lb8o1g7d3hnpmpj29p/1548338400000/17128039988164006870/*/104tcg6ZiXFiHux7Z-9gGoWh_U2aPsrGj?e=download'
 fi
 
 if [ $1 = '-Windows_Server_2003' ]
@@ -141,7 +141,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2003 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://veip-my.sharepoint.com/personal/admin_veip_onmicrosoft_com/Documents/DD%E5%8C%85/MeowLove%E7%B3%BB%E7%BB%9F/Disk_Windows_Server_2003_DataCenter_CN.vhd.gz'
+	wget --no-check-certificate -qO koiok.sh 'https://raw.githubusercontent.com/veip007/Network-Reinstall-System-Modify/master/CoreShell/koiok.sh' && bash koiok.sh -dd 'https://doc-00-08-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/h0qtgalikkta9ahs86fa7p6lctv4sjvl/1548338400000/17128039988164006870/*/13G6T-rRzlFjWcCua56p3n_apvwDQINQh?e=download'
 fi
 
 if [ $1 = '-CXT_Bare-metal_System_Deployment_Platform' ]
