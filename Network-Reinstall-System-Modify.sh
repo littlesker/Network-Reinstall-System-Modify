@@ -167,5 +167,4 @@ echo -e "\033[31m Please check if the options are correct. For example [-CXT_Bar
 echo "---------------------------------------------------------------------------------------------------------------------"
 echo -e "\n"
 exit
-拖拽到此处
-图片将通过Fatkun完成下载
+
